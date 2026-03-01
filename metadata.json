@@ -1,0 +1,5 @@
+{
+  "name": "Ubuntu Kitchen Inventory System",
+  "description": "A comprehensive inventory management system for the Ubuntu School Kitchen, featuring real-time stock tracking, consumption analytics, and procurement workflows.",
+  "requestFramePermissions": []
+}
